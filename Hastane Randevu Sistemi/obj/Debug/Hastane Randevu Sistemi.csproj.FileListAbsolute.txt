@@ -1,0 +1,45 @@
+C:\Users\Burak Yılmaz\source\repos\Hastane Randevu Sistemi\Hastane Randevu Sistemi\obj\Debug\Hastane Randevu Sistemi.csproj.AssemblyReference.cache
+C:\Users\Burak Yılmaz\source\repos\Hastane Randevu Sistemi\Hastane Randevu Sistemi\obj\Debug\Hastane_Randevu_Sistemi.Form1.resources
+C:\Users\Burak Yılmaz\source\repos\Hastane Randevu Sistemi\Hastane Randevu Sistemi\obj\Debug\Hastane_Randevu_Sistemi.LoginForm.resources
+C:\Users\Burak Yılmaz\source\repos\Hastane Randevu Sistemi\Hastane Randevu Sistemi\obj\Debug\Hastane_Randevu_Sistemi.Properties.Resources.resources
+C:\Users\Burak Yılmaz\source\repos\Hastane Randevu Sistemi\Hastane Randevu Sistemi\obj\Debug\Hastane_Randevu_Sistemi.UyeOlForm.resources
+C:\Users\Burak Yılmaz\source\repos\Hastane Randevu Sistemi\Hastane Randevu Sistemi\obj\Debug\Hastane Randevu Sistemi.csproj.GenerateResource.cache
+C:\Users\Burak Yılmaz\source\repos\Hastane Randevu Sistemi\Hastane Randevu Sistemi\obj\Debug\Hastane Randevu Sistemi.csproj.CoreCompileInputs.cache
+C:\Users\Burak Yılmaz\source\repos\Hastane Randevu Sistemi\Hastane Randevu Sistemi\obj\Debug\Hastane_Randevu_Sistemi.MainForm.resources
+C:\Users\Burak Yılmaz\source\repos\Hastane Randevu Sistemi\Hastane Randevu Sistemi\bin\Debug\Hastane Randevu Sistemi.exe.config
+C:\Users\Burak Yılmaz\source\repos\Hastane Randevu Sistemi\Hastane Randevu Sistemi\bin\Debug\Hastane Randevu Sistemi.exe
+C:\Users\Burak Yılmaz\source\repos\Hastane Randevu Sistemi\Hastane Randevu Sistemi\bin\Debug\Hastane Randevu Sistemi.pdb
+C:\Users\Burak Yılmaz\source\repos\Hastane Randevu Sistemi\Hastane Randevu Sistemi\obj\Debug\Hastane Randevu Sistemi.exe
+C:\Users\Burak Yılmaz\source\repos\Hastane Randevu Sistemi\Hastane Randevu Sistemi\obj\Debug\Hastane Randevu Sistemi.pdb
+C:\Users\Burak Yılmaz\source\repos\Hastane Randevu Sistemi\Hastane Randevu Sistemi\obj\Debug\Hastane_Randevu_Sistemi.DoktorForm.resources
+C:\Users\Burak Yılmaz\source\repos\Hastane Randevu Sistemi\Hastane Randevu Sistemi\obj\Debug\Hastane_Randevu_Sistemi.DoktorGirisForm.resources
+C:\Users\umuty\OneDrive\Masaüstü\Hastane Randevu Sistemi\Hastane Randevu Sistemi\Hastane Randevu Sistemi\bin\Debug\Hastane Randevu Sistemi.exe.config
+C:\Users\umuty\OneDrive\Masaüstü\Hastane Randevu Sistemi\Hastane Randevu Sistemi\Hastane Randevu Sistemi\bin\Debug\Hastane Randevu Sistemi.exe
+C:\Users\umuty\OneDrive\Masaüstü\Hastane Randevu Sistemi\Hastane Randevu Sistemi\Hastane Randevu Sistemi\bin\Debug\Hastane Randevu Sistemi.pdb
+C:\Users\umuty\OneDrive\Masaüstü\Hastane Randevu Sistemi\Hastane Randevu Sistemi\Hastane Randevu Sistemi\obj\Debug\Hastane Randevu Sistemi.csproj.AssemblyReference.cache
+C:\Users\umuty\OneDrive\Masaüstü\Hastane Randevu Sistemi\Hastane Randevu Sistemi\Hastane Randevu Sistemi\obj\Debug\Hastane_Randevu_Sistemi.DoktorForm.resources
+C:\Users\umuty\OneDrive\Masaüstü\Hastane Randevu Sistemi\Hastane Randevu Sistemi\Hastane Randevu Sistemi\obj\Debug\Hastane_Randevu_Sistemi.DoktorGirisForm.resources
+C:\Users\umuty\OneDrive\Masaüstü\Hastane Randevu Sistemi\Hastane Randevu Sistemi\Hastane Randevu Sistemi\obj\Debug\Hastane_Randevu_Sistemi.Form1.resources
+C:\Users\umuty\OneDrive\Masaüstü\Hastane Randevu Sistemi\Hastane Randevu Sistemi\Hastane Randevu Sistemi\obj\Debug\Hastane_Randevu_Sistemi.LoginForm.resources
+C:\Users\umuty\OneDrive\Masaüstü\Hastane Randevu Sistemi\Hastane Randevu Sistemi\Hastane Randevu Sistemi\obj\Debug\Hastane_Randevu_Sistemi.MainForm.resources
+C:\Users\umuty\OneDrive\Masaüstü\Hastane Randevu Sistemi\Hastane Randevu Sistemi\Hastane Randevu Sistemi\obj\Debug\Hastane_Randevu_Sistemi.Properties.Resources.resources
+C:\Users\umuty\OneDrive\Masaüstü\Hastane Randevu Sistemi\Hastane Randevu Sistemi\Hastane Randevu Sistemi\obj\Debug\Hastane_Randevu_Sistemi.UyeOlForm.resources
+C:\Users\umuty\OneDrive\Masaüstü\Hastane Randevu Sistemi\Hastane Randevu Sistemi\Hastane Randevu Sistemi\obj\Debug\Hastane Randevu Sistemi.csproj.GenerateResource.cache
+C:\Users\umuty\OneDrive\Masaüstü\Hastane Randevu Sistemi\Hastane Randevu Sistemi\Hastane Randevu Sistemi\obj\Debug\Hastane Randevu Sistemi.csproj.CoreCompileInputs.cache
+C:\Users\umuty\OneDrive\Masaüstü\Hastane Randevu Sistemi\Hastane Randevu Sistemi\Hastane Randevu Sistemi\obj\Debug\Hastane Randevu Sistemi.exe
+C:\Users\umuty\OneDrive\Masaüstü\Hastane Randevu Sistemi\Hastane Randevu Sistemi\Hastane Randevu Sistemi\obj\Debug\Hastane Randevu Sistemi.pdb
+C:\Users\Burak Yılmaz\Desktop\projeler-main\burak\Hastane Randevu Sistemi\Hastane Randevu Sistemi\Hastane Randevu Sistemi\bin\Debug\Hastane Randevu Sistemi.exe.config
+C:\Users\Burak Yılmaz\Desktop\projeler-main\burak\Hastane Randevu Sistemi\Hastane Randevu Sistemi\Hastane Randevu Sistemi\bin\Debug\Hastane Randevu Sistemi.exe
+C:\Users\Burak Yılmaz\Desktop\projeler-main\burak\Hastane Randevu Sistemi\Hastane Randevu Sistemi\Hastane Randevu Sistemi\bin\Debug\Hastane Randevu Sistemi.pdb
+C:\Users\Burak Yılmaz\Desktop\projeler-main\burak\Hastane Randevu Sistemi\Hastane Randevu Sistemi\Hastane Randevu Sistemi\obj\Debug\Hastane Randevu Sistemi.csproj.AssemblyReference.cache
+C:\Users\Burak Yılmaz\Desktop\projeler-main\burak\Hastane Randevu Sistemi\Hastane Randevu Sistemi\Hastane Randevu Sistemi\obj\Debug\Hastane_Randevu_Sistemi.DoktorForm.resources
+C:\Users\Burak Yılmaz\Desktop\projeler-main\burak\Hastane Randevu Sistemi\Hastane Randevu Sistemi\Hastane Randevu Sistemi\obj\Debug\Hastane_Randevu_Sistemi.DoktorGirisForm.resources
+C:\Users\Burak Yılmaz\Desktop\projeler-main\burak\Hastane Randevu Sistemi\Hastane Randevu Sistemi\Hastane Randevu Sistemi\obj\Debug\Hastane_Randevu_Sistemi.Form1.resources
+C:\Users\Burak Yılmaz\Desktop\projeler-main\burak\Hastane Randevu Sistemi\Hastane Randevu Sistemi\Hastane Randevu Sistemi\obj\Debug\Hastane_Randevu_Sistemi.LoginForm.resources
+C:\Users\Burak Yılmaz\Desktop\projeler-main\burak\Hastane Randevu Sistemi\Hastane Randevu Sistemi\Hastane Randevu Sistemi\obj\Debug\Hastane_Randevu_Sistemi.MainForm.resources
+C:\Users\Burak Yılmaz\Desktop\projeler-main\burak\Hastane Randevu Sistemi\Hastane Randevu Sistemi\Hastane Randevu Sistemi\obj\Debug\Hastane_Randevu_Sistemi.Properties.Resources.resources
+C:\Users\Burak Yılmaz\Desktop\projeler-main\burak\Hastane Randevu Sistemi\Hastane Randevu Sistemi\Hastane Randevu Sistemi\obj\Debug\Hastane_Randevu_Sistemi.UyeOlForm.resources
+C:\Users\Burak Yılmaz\Desktop\projeler-main\burak\Hastane Randevu Sistemi\Hastane Randevu Sistemi\Hastane Randevu Sistemi\obj\Debug\Hastane Randevu Sistemi.csproj.GenerateResource.cache
+C:\Users\Burak Yılmaz\Desktop\projeler-main\burak\Hastane Randevu Sistemi\Hastane Randevu Sistemi\Hastane Randevu Sistemi\obj\Debug\Hastane Randevu Sistemi.csproj.CoreCompileInputs.cache
+C:\Users\Burak Yılmaz\Desktop\projeler-main\burak\Hastane Randevu Sistemi\Hastane Randevu Sistemi\Hastane Randevu Sistemi\obj\Debug\Hastane Randevu Sistemi.exe
+C:\Users\Burak Yılmaz\Desktop\projeler-main\burak\Hastane Randevu Sistemi\Hastane Randevu Sistemi\Hastane Randevu Sistemi\obj\Debug\Hastane Randevu Sistemi.pdb
