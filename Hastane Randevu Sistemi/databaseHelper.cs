@@ -5,7 +5,7 @@ using System.Data.SqlClient;
 public class DatabaseHelper
 {
     // MSSQL bağlantı cümlesi – Kendi sunucu ve veritabanı adını kontrol etmeyi unutma
-    private static string connectionString = "Server=DESKTOP-G860PF1\\SQLEXPRESS;Database=HastaneRandevu;Trusted_Connection=True;";
+    private static string connectionString = "Server=MONSTER\\SQLEXPRESS;Database=HastaneRandevu;Trusted_Connection=True;";
 
     /// <summary>
     /// INSERT, UPDATE, DELETE gibi sorguları çalıştırır ve etkilenen satır sayısını döner.
